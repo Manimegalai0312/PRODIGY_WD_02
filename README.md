@@ -4,14 +4,7 @@ CIN : PIT/JUL25/04978
 
 OUTPUT: 
 
-
-<img width="386" height="210" alt="Screenshot 2025-07-28 155929" src="https://github.com/user-attachments/assets/7efd2e22-ca98-4dc3-90bb-e4568396d363" />
-
-
-
 <img width="1366" height="633" alt="Screenshot 2025-07-28 155941" src="https://github.com/user-attachments/assets/e479a0a2-ec76-432d-900b-865ee30948d7" />
-
-
 
 
 Neon Stopwatch

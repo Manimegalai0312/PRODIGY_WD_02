@@ -4,26 +4,21 @@ CIN : PIT/JUL25/04978
 
 OUTPUT: 
 
-![Uploading Screenshot 2025-07-28 083141.png…]()
 
-<img width="1366" height="617" alt="Screenshot 2025-07-28 083201" src="https://github.com/user-attachments/assets/5ceb6abf-5474-4b19-bed2-163095609c70" />
-
-
-<img width="1355" height="642" alt="Screenshot 2025-07-28 083220" src="https://github.com/user-attachments/assets/64e2db77-0f15-4b0f-9e12-7159e512a030" />
+<img width="386" height="210" alt="Screenshot 2025-07-28 155929" src="https://github.com/user-attachments/assets/7efd2e22-ca98-4dc3-90bb-e4568396d363" />
 
 
 
-<img width="1355" height="619" alt="Screenshot 2025-07-28 083245" src="https://github.com/user-attachments/assets/03ed0413-3590-4442-998f-c80f724dcacb" />
+<img width="1366" height="633" alt="Screenshot 2025-07-28 155941" src="https://github.com/user-attachments/assets/e479a0a2-ec76-432d-900b-865ee30948d7" />
 
 
-![Uploading Screenshot 2025-07-28 083305.png…]()
 
 
-## ⏱ Neon Stopwatch
+Neon Stopwatch
 
 A beautifully designed **Neon-Themed Stopwatch Web App** with lap functionality, animated UI, and glowing effects. Built using HTML, CSS, and JavaScript.
 
-### 🔥 Features
+ Features
 
 * Start, Pause, Reset, and Lap functions
 * Neon-glow animations with interactive buttons
@@ -31,12 +26,7 @@ A beautifully designed **Neon-Themed Stopwatch Web App** with lap functionality,
 * Glassmorphism UI and floating particle effects
 * Fully responsive design for mobile and desktop
 
-### 🚀 Preview
-
-![Stopwatch UI](screenshot.png)
-*(Add your screenshot in the repo and name it `screenshot.png` or update the filename)*
-
-### 🛠 Tech Stack
+ Tech Stack
 
 * **HTML5**
 * **CSS3** (Neon design + Glassmorphism)
@@ -44,7 +34,7 @@ A beautifully designed **Neon-Themed Stopwatch Web App** with lap functionality,
 * **Font Awesome** for icons
 * **Google Fonts** for typography
 
-### 📦 How to Use
+ How to Use
 
 1. Clone this repository
 
